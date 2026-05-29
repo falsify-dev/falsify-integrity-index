@@ -69,4 +69,4 @@ By contributing, you agree that:
 
 ## Maintainers
 
-Cüneyt Öztürk · co-founder, Cüneyt Öztürk · hello@falsify.dev
+Cüneyt Öztürk · hello@falsify.dev
